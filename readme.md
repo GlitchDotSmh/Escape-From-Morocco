@@ -2,7 +2,7 @@ ill update this as time goes on because not a lot is set in stone yet
 
 HOW TO USE & COMPILE:
 
-fffuukcc i gotta go ill commit this and add this later
+o wait
 
 GAME DESCRIPTION:
 
