@@ -7,6 +7,7 @@
 **MAKE SURE YOU'RE ON THE LATEST PUBLIC VERSION.**
 
 2. After downloading Turbowarp correctly, the `.sb3` file should get it's icon,\
+![Logo](https://github.com/user-attachments/assets/606810db-7222-4dc6-ae60-8fbbd06921de)\
 but don't worry if it didn't, it might've not updated.\
 You can either:
 - Double-Click the `Escape From Morocco.sb3` file, which should automatically open Turbowarp,\
