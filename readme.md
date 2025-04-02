@@ -2,7 +2,7 @@ ill update this as time goes on because not a lot is set in stone yet
 
 HOW TO USE & COMPILE:
 
-o wait
+o wait oohhh yes
 
 GAME DESCRIPTION:
 
