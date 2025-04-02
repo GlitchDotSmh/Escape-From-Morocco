@@ -1,29 +1,56 @@
-ill update this as time goes on because not a lot is set in stone yet
+*ill update this as time goes on because not a lot is set in stone yet*
 
-HOW TO USE & COMPILE:
+# HOW TO USE & COMPILE:
 
-o wait oohhh yes
+## How to open the project file:
+1. You need to download [Turbowarp Desktop](https://desktop.turbowarp.org/) (Instructions on the website)
+**MAKE SURE YOU'RE ON THE LATEST PUBLIC VERSION.**
 
-GAME DESCRIPTION:
+2. After downloading Turbowarp correctly, the `.sb3` file should get it's icon,
+but don't worry if it didn't, it might've not updated.
+You can either:
+- Double-Click the `Escape From Morocco.sb3` file, which should automatically open Turbowarp,
+and **if opening Turbowarp after freshly installing, might ask what to open the file with, simply navigate to where you installed Turbowarp and make it the default program. This should also update the icon if it hasn't before**
+- Open Turbowarp, drag & drop the `Escape From Morocco.sb3` file into the Turbowarp window
+- Open Turbowarp, click the following buttons:
+`File` (in the top left) > `Load from your computer` > `Escape From Morocco.sb3`
 
-# what tf am i lookin at boi?
+3. After opening the project file in any of those ways, you will get a `Extension Security` pop-up,
+This is a security measure to prevent loading unwanted or harmful Extensions.
+Rest assured that every Extension used is from a trusted source, [Sharkpool](https://sharkpools-extensions.vercel.app/).
+**You need to select the `Run without sandbox` option, otherwise every Extension will not load and the project will break.**
+This pop-up will show up for every single Extension, again, for security.
+There isn't a lot of them, just keep pressing the `Allow` button until the pop-up is gone.
 
+4. You can now mess with the project or play it in the editor to your heart's content!
+
+## How to compile/package the game:
+1. With the project file open, click the following buttons:
+`File` (in the top left) > `Package project`
+2. A new window called `TurboWarp Packager` will show up. **(IGNORE THE NEXT PART FOR NOW UNTIL I MAKE AN ACTUAL BUILD AND PACKAGER SETTINGS FILE)** Scroll to the very bottom, click `Import Settings` and select the `efm-packsetts.json` file.
+3. **If you know what you're doing,** you can change the packager settings to your hearts content.
+4. Go to the very bottom, select your Environment, and hit the `Package` button (or `Preview`, if you'd like to test it first)
+5. Select where you want to save the packaged/compiled project.
+
+# GAME DESCRIPTION:
+
+## What is this game??
 **Escape From Morocco** is a small unserious arcade type game made for **Seezee**'s birthday,
 similiar to [Gradius](https://en.wikipedia.org/wiki/Gradius) or [Galaga](https://en.wikipedia.org/wiki/Galaga),
 flying through environments and destroying enemies, trying to reach the end of the level.
+Proudly coded on [Turbowarp](https://turbowarp.org/)!
+*"To be proud is to be cringe and childish" - Sun Tzu"*
 **Note: This game's story and characters WILL be VERY hard to understand if you're not at least aware of who Seezee or any other featured people/characters are.**
 
-# where do i play this beautiful product my friend
-
-## Escape From Morocco is (NOT YET) available to play here:
+## Where can I play?
+The game is (NOT YET) available to play here:
 
 [Newgrounds](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**
 [Super Man 553 Website](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Official associated website)
 [Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)
 
-# inspirations
-
-## Escape From Morocco's menus, gameplay etc. are inspired by other games and media, for example:
+## Any inspirations?
+Menus, gameplay etc. are inspired by other games and media, for example:
 
 The name of the game is inspired by the song "Escape From Poland",
 from [Vs Bamber & Davey V2.5](https://glitchdotsmh.itch.io/bnd) **(Note: As of now the song is only playable in the [April Fools spin-off](https://gamebanana.com/mods/585254))**
