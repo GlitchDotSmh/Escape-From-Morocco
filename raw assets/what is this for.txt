@@ -1,0 +1,3 @@
+this is here mostly for backup and archival
+but this also serves as access to raw uncompressed resources without need to get the sb3 working and having to deal with scratch's compression
+also this is nice for putting assets before importing them to turbowarp without losing them
