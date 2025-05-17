@@ -51,17 +51,19 @@ The game is (NOT YET) available to play here:\
 \
 [Newgrounds](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
 [Super Man 553 Website](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Official associated website)\
-[Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)
+[Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)**
 
 ## Any inspirations?
 Menus, gameplay etc. are inspired by other games and media, for example:\
 \
 The name of the game is inspired by the song "Escape From Poland",\
-from [Vs Bamber & Davey V2.5](https://glitchdotsmh.itch.io/bnd)\
-**(Note: As of now the song is only playable in the [April Fools spin-off](https://gamebanana.com/mods/585254))**\\
+from [Vs Bamber & Davey V2.5](https://glitchdotsmh.itch.io/bnd),\
+which in itself is based off of "Escape From California" from [Vs Dave & Bambi](https://gamebanana.com/mods/43201).\
+**(Note: As of now the song is only playable in the [April Fools spin-off](https://gamebanana.com/mods/585254))**\
 The country was changed to Morocco because that's Seezee's nationality!\
 \
 Main Menu - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)\
 Gameplay & Gameplay HUD - [Shatterbot](https://flashgaming.fandom.com/wiki/Shatterbot/)\
 Character & Partner Selection - [Sonic Robo Blast 2](https://www.srb2.org/)\
+Results Screen - [Rivals of Aether](https://store.steampowered.com/app/383980/Rivals_of_Aether/)\
 ill add other menus as i add them or get ideas ok
