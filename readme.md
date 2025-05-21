@@ -30,7 +30,7 @@ Main Menu - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_D
 Gameplay & Gameplay HUD - [Shatterbot](https://flashgaming.fandom.com/wiki/Shatterbot/)\
 Character & Partner Selection - [Sonic Robo Blast 2](https://www.srb2.org/)\
 Results Screen - [Rivals of Aether](https://store.steampowered.com/app/383980/Rivals_of_Aether/)\
-Shop - [Poké Mart](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Mart)\
+Shop - [Poké Mart](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Mart)
 
 ## Part of the "Seezee Birthday Bash 2025"
 ![splash](https://github.com/user-attachments/assets/fe49593d-8752-4a8a-bdab-623c7337a8fa)
