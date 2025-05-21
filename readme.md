@@ -1,4 +1,39 @@
-*ill update this as time goes on because not a lot is set in stone yet*
+# Welcome to:
+![gameLogo](https://github.com/user-attachments/assets/f7b4bf82-10a8-458e-95a4-0245cadf50e0)\
+*"Be Bird."*
+
+## What is this game??
+**Escape From Morocco** is an unserious endless Shoot 'em up arcade game made for **Seezee**'s birthday,\
+similiar to [Gradius](https://en.wikipedia.org/wiki/Gradius) or [Galaga](https://en.wikipedia.org/wiki/Galaga),\
+flying through environments and destroying enemies, trying to reach the end of the level.\
+Proudly coded on [Turbowarp](https://turbowarp.org/)!\
+*"To be proud is to be cringe and childish" - Sun Tzu*\
+**Note: This game's story and characters WILL be VERY hard to understand if you're not at least aware of who Seezee or any other featured people/characters are.**
+
+## Where can I play?
+The game is (NOT YET) available to play here:\
+\
+[Newgrounds](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
+[Super Man 553 Website](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Official associated website)\
+[Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)**
+
+## Any inspirations?
+Menus, gameplay etc. are inspired by other games and media, for example:\
+\
+The name of the game is inspired by the song "Escape From Poland",\
+from [Vs Bamber & Davey V2.5](https://glitchdotsmh.itch.io/bnd),\
+which in itself is based off of "Escape From California" from [Vs Dave & Bambi](https://gamebanana.com/mods/43201).\
+**(Note: As of now the song is only playable in the [April Fools spin-off](https://gamebanana.com/mods/585254))**\
+The country was changed to Morocco because that's Seezee's nationality!\
+\
+Main Menu - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)\
+Gameplay & Gameplay HUD - [Shatterbot](https://flashgaming.fandom.com/wiki/Shatterbot/)\
+Character & Partner Selection - [Sonic Robo Blast 2](https://www.srb2.org/)\
+Results Screen - [Rivals of Aether](https://store.steampowered.com/app/383980/Rivals_of_Aether/)\
+Shop - [Poké Mart](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Mart)
+
+## Part of the "Seezee Birthday Bash 2025"
+![splash](https://github.com/user-attachments/assets/fe49593d-8752-4a8a-bdab-623c7337a8fa)
 
 # HOW TO USE & COMPILE:
 
@@ -35,35 +70,3 @@ Scroll to the very bottom, click `Import Settings` and select the `efm-packsetts
 3. **If you know what you're doing,** you can change the packager settings to your hearts content.
 4. Go to the very bottom, select your Environment, and hit the `Package` button (or `Preview`, if you'd like to test it first)
 5. Select where you want to save the packaged/compiled project.
-
-# GAME DESCRIPTION:
-
-## What is this game??
-**Escape From Morocco** is a small unserious arcade type game made for **Seezee**'s birthday,\
-similiar to [Gradius](https://en.wikipedia.org/wiki/Gradius) or [Galaga](https://en.wikipedia.org/wiki/Galaga),\
-flying through environments and destroying enemies, trying to reach the end of the level.\
-Proudly coded on [Turbowarp](https://turbowarp.org/)!\
-*"To be proud is to be cringe and childish" - Sun Tzu"*\
-**Note: This game's story and characters WILL be VERY hard to understand if you're not at least aware of who Seezee or any other featured people/characters are.**
-
-## Where can I play?
-The game is (NOT YET) available to play here:\
-\
-[Newgrounds](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
-[Super Man 553 Website](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Official associated website)\
-[Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)**
-
-## Any inspirations?
-Menus, gameplay etc. are inspired by other games and media, for example:\
-\
-The name of the game is inspired by the song "Escape From Poland",\
-from [Vs Bamber & Davey V2.5](https://glitchdotsmh.itch.io/bnd),\
-which in itself is based off of "Escape From California" from [Vs Dave & Bambi](https://gamebanana.com/mods/43201).\
-**(Note: As of now the song is only playable in the [April Fools spin-off](https://gamebanana.com/mods/585254))**\
-The country was changed to Morocco because that's Seezee's nationality!\
-\
-Main Menu - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)\
-Gameplay & Gameplay HUD - [Shatterbot](https://flashgaming.fandom.com/wiki/Shatterbot/)\
-Character & Partner Selection - [Sonic Robo Blast 2](https://www.srb2.org/)\
-Results Screen - [Rivals of Aether](https://store.steampowered.com/app/383980/Rivals_of_Aether/)\
-ill add other menus as i add them or get ideas ok
