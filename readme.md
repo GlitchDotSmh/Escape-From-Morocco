@@ -43,7 +43,7 @@ Scroll to the very bottom, click `Import Settings` and select the `efm-packsetts
 similiar to [Gradius](https://en.wikipedia.org/wiki/Gradius) or [Galaga](https://en.wikipedia.org/wiki/Galaga),\
 flying through environments and destroying enemies, trying to reach the end of the level.\
 Proudly coded on [Turbowarp](https://turbowarp.org/)!\
-*"To be proud is to be cringe and childish" - Sun Tzu"*\
+*"To be proud is to be cringe and childish" - Sun Tzu*\
 **Note: This game's story and characters WILL be VERY hard to understand if you're not at least aware of who Seezee or any other featured people/characters are.**
 
 ## Where can I play?
