@@ -65,8 +65,7 @@ There isn't a lot of them, just keep pressing the `Allow` button until the pop-u
 1. With the project file open, click the following buttons:\
 `File` (in the top left) > `Package project`
 2. A new window called `TurboWarp Packager` will show up.\
-**(IGNORE THE NEXT PART FOR NOW UNTIL I MAKE AN ACTUAL BUILD AND PACKAGER SETTINGS FILE)**\
-Scroll to the very bottom, click `Import Settings` and select the `efm-packsetts.json` file.
+Scroll to the very bottom, click `Import Settings` and select the `efm-packSetts.json` file.
 3. **If you know what you're doing,** you can change the packager settings to your hearts content.
 4. Go to the very bottom, select your Environment, and hit the `Package` button (or `Preview`, if you'd like to test it first)
 5. Select where you want to save the packaged/compiled project.
