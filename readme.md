@@ -11,10 +11,9 @@ Proudly coded on [Turbowarp](https://turbowarp.org/)!\
 **Note: This game's story and characters WILL be VERY hard to understand if you're not at least aware of who Seezee or any other featured people/characters are.**
 
 ## Where can I play?
-The game is (NOT YET) available to play here:\
+The game is available to play here:\
 \
-[Newgrounds](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
-[Super Man 553 Website](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Official associated website)\
+[GameJolt](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Medals, API Integration) **HIGHLY RECOMMENDED AND INTENDED EXPERIENCE**\
 [Itch.io](https://www.youtube.com/watch?v=BjP2hLxUaKs) (Web, Desktop) **Note: Game will (optionally) auto-update with the [Itch.io Desktop App](https://itch.io/app)**
 
 ## Any inspirations?
